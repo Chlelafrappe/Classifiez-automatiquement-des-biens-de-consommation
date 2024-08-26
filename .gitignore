@@ -1,0 +1,11 @@
+*.db
+*.csv
+__pycache__/
+*.py[cod]
+*$py.class
+*.jpg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+__pypackages__/
